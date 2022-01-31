@@ -1,0 +1,8 @@
+C:\Users\SB65784\Desktop\ConsoleYoutube\bin\Debug\ConsoleYoutube.exe.config
+C:\Users\SB65784\Desktop\ConsoleYoutube\bin\Debug\ConsoleYoutube.exe
+C:\Users\SB65784\Desktop\ConsoleYoutube\bin\Debug\ConsoleYoutube.pdb
+C:\Users\SB65784\Desktop\ConsoleYoutube\obj\Debug\ConsoleYoutube.csproj.AssemblyReference.cache
+C:\Users\SB65784\Desktop\ConsoleYoutube\obj\Debug\ConsoleYoutube.csproj.SuggestedBindingRedirects.cache
+C:\Users\SB65784\Desktop\ConsoleYoutube\obj\Debug\ConsoleYoutube.csproj.CoreCompileInputs.cache
+C:\Users\SB65784\Desktop\ConsoleYoutube\obj\Debug\ConsoleYoutube.exe
+C:\Users\SB65784\Desktop\ConsoleYoutube\obj\Debug\ConsoleYoutube.pdb
