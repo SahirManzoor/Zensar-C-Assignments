@@ -1,0 +1,8 @@
+D:\ZENSAR\Collections\IPLScore\bin\Debug\IPLScore.exe.config
+D:\ZENSAR\Collections\IPLScore\bin\Debug\IPLScore.exe
+D:\ZENSAR\Collections\IPLScore\bin\Debug\IPLScore.pdb
+D:\ZENSAR\Collections\IPLScore\obj\Debug\IPLScore.csproj.AssemblyReference.cache
+D:\ZENSAR\Collections\IPLScore\obj\Debug\IPLScore.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Collections\IPLScore\obj\Debug\IPLScore.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Collections\IPLScore\obj\Debug\IPLScore.exe
+D:\ZENSAR\Collections\IPLScore\obj\Debug\IPLScore.pdb
