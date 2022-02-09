@@ -1,0 +1,8 @@
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\bin\Debug\ProductSortUsingDictionary.exe.config
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\bin\Debug\ProductSortUsingDictionary.exe
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\bin\Debug\ProductSortUsingDictionary.pdb
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\obj\Debug\ProductSortUsingDictionary.csproj.AssemblyReference.cache
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\obj\Debug\ProductSortUsingDictionary.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\obj\Debug\ProductSortUsingDictionary.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\obj\Debug\ProductSortUsingDictionary.exe
+D:\ZENSAR\Assignments 4\ProductSortUsingDictionary\obj\Debug\ProductSortUsingDictionary.pdb
