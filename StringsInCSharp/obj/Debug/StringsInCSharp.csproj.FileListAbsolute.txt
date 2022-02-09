@@ -1,0 +1,8 @@
+D:\ZENSAR\StringsInCSharp\bin\Debug\StringsInCSharp.exe.config
+D:\ZENSAR\StringsInCSharp\bin\Debug\StringsInCSharp.exe
+D:\ZENSAR\StringsInCSharp\bin\Debug\StringsInCSharp.pdb
+D:\ZENSAR\StringsInCSharp\obj\Debug\StringsInCSharp.csproj.AssemblyReference.cache
+D:\ZENSAR\StringsInCSharp\obj\Debug\StringsInCSharp.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\StringsInCSharp\obj\Debug\StringsInCSharp.csproj.CoreCompileInputs.cache
+D:\ZENSAR\StringsInCSharp\obj\Debug\StringsInCSharp.exe
+D:\ZENSAR\StringsInCSharp\obj\Debug\StringsInCSharp.pdb
