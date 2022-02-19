@@ -1,0 +1,8 @@
+D:\ZENSAR\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\ZENSAR\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\ZENSAR\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\ZENSAR\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+D:\ZENSAR\FactoryPattern\obj\Debug\FactoryPattern.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\ZENSAR\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\ZENSAR\FactoryPattern\obj\Debug\FactoryPattern.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4dec2dd-f4cc-482c-a410-0cb5201f086d": {
+      "ProjectGuid": "b4dec2dd-f4cc-482c-a410-0cb5201f086d",
+      "DisplayName": "StringsInCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

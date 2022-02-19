@@ -1,0 +1,8 @@
+D:\ZENSAR\MethodsInC#\MethodInCSharp\bin\Debug\MethodInCSharp.exe.config
+D:\ZENSAR\MethodsInC#\MethodInCSharp\bin\Debug\MethodInCSharp.exe
+D:\ZENSAR\MethodsInC#\MethodInCSharp\bin\Debug\MethodInCSharp.pdb
+D:\ZENSAR\MethodsInC#\MethodInCSharp\obj\Debug\MethodInCSharp.csproj.AssemblyReference.cache
+D:\ZENSAR\MethodsInC#\MethodInCSharp\obj\Debug\MethodInCSharp.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\MethodsInC#\MethodInCSharp\obj\Debug\MethodInCSharp.csproj.CoreCompileInputs.cache
+D:\ZENSAR\MethodsInC#\MethodInCSharp\obj\Debug\MethodInCSharp.exe
+D:\ZENSAR\MethodsInC#\MethodInCSharp\obj\Debug\MethodInCSharp.pdb

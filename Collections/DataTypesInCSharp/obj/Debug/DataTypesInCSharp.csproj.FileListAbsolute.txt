@@ -1,0 +1,8 @@
+D:\ZENSAR\Collections\DataTypesInCSharp\bin\Debug\DataTypesInCSharp.exe.config
+D:\ZENSAR\Collections\DataTypesInCSharp\bin\Debug\DataTypesInCSharp.exe
+D:\ZENSAR\Collections\DataTypesInCSharp\bin\Debug\DataTypesInCSharp.pdb
+D:\ZENSAR\Collections\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.csproj.AssemblyReference.cache
+D:\ZENSAR\Collections\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Collections\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Collections\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.exe
+D:\ZENSAR\Collections\DataTypesInCSharp\obj\Debug\DataTypesInCSharp.pdb
