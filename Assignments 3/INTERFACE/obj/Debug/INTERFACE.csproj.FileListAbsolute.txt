@@ -1,0 +1,8 @@
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\bin\Debug\INTERFACE.exe.config
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\bin\Debug\INTERFACE.exe
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\bin\Debug\INTERFACE.pdb
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\obj\Debug\INTERFACE.csproj.AssemblyReference.cache
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\obj\Debug\INTERFACE.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\obj\Debug\INTERFACE.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\obj\Debug\INTERFACE.exe
+D:\ZENSAR\Asignments 3\Assignment3\INTERFACE\obj\Debug\INTERFACE.pdb

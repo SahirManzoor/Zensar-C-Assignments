@@ -1,0 +1,7 @@
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\bin\Debug\Assignment3Property.exe.config
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\bin\Debug\Assignment3Property.exe
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\bin\Debug\Assignment3Property.pdb
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\obj\Debug\Assignment3Property.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\obj\Debug\Assignment3Property.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\obj\Debug\Assignment3Property.exe
+D:\ZENSAR\Asignments 3\Assignment3\Assignment3Property\obj\Debug\Assignment3Property.pdb

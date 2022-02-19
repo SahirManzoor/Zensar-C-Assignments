@@ -1,0 +1,7 @@
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\bin\Debug\TrainTickets.exe.config
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\bin\Debug\TrainTickets.exe
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\bin\Debug\TrainTickets.pdb
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\obj\Debug\TrainTickets.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\obj\Debug\TrainTickets.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\obj\Debug\TrainTickets.exe
+D:\ZENSAR\Asignments 3\Assignment3\TrainTickets\obj\Debug\TrainTickets.pdb

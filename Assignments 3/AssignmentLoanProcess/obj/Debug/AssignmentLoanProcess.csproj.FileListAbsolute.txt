@@ -1,0 +1,7 @@
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\bin\Debug\AssignmentLoanProcess.exe.config
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\bin\Debug\AssignmentLoanProcess.exe
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\bin\Debug\AssignmentLoanProcess.pdb
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\obj\Debug\AssignmentLoanProcess.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\obj\Debug\AssignmentLoanProcess.csproj.CoreCompileInputs.cache
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\obj\Debug\AssignmentLoanProcess.exe
+D:\ZENSAR\Asignments 3\Assignment3\AssignmentLoanProcess\obj\Debug\AssignmentLoanProcess.pdb
