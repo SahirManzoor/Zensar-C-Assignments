@@ -1,0 +1,8 @@
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\obj\Debug\LinqQueries.csproj.AssemblyReference.cache
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\obj\Debug\LinqQueries.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\obj\Debug\LinqQueries.csproj.CoreCompileInputs.cache
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ZENSAR\LINQ QUERIES ASSIGNMENT\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
