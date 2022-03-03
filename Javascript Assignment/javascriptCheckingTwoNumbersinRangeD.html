@@ -1,0 +1,42 @@
+<!doctype html>
+  <html>
+    <head>
+<style>
+
+h1{
+color : blue;
+}
+h2{
+color : red;
+}
+</style>
+    </head>
+    <body>
+      <script>
+          function range()
+          {
+             var x, y;
+            x = parseInt(document.getElementById("first").value);
+            y = parseInt(document.getElementById("second").value);
+        
+             if ((x >= 50 && x <= 99 && y >= 50 && y <= 99) )
+             {
+                inrange = "In THe range";
+             document.getElementById("answer").value = inrange;
+             }
+             else
+             {
+               inrange = "not In range";
+                document.getElementById("answer").value = inrange;
+             }
+          }
+      </script>
+	  <h1 float:centre; >Beauty of Javascript</h1>
+	  <h2>Checking  Two numbers from user Are they falling in the range (50-99)</h2>
+      <p>First Number: <input id="first"></p>
+      <p></p>Second Number: <input id="second"></p>
+      <button onclick="range()">Click here to check Inrange or not ?</button>
+      <p> <input id="answer"> </p>
+
+    </body>
+  </html>

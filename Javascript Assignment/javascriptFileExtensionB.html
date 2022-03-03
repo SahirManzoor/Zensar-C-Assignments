@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+
+<title>File Extension using Javascript</title>
+  <style type="text/css">
+h1{
+color:blue;
+}   
+  </style>
+</head>
+  
+<body>
+<h1>JavaScript to get the extension of a filename given by the user(hint: use split and pop())</h1>
+  <div>
+  <form>
+    Upload File: <input type="file" 
+    id="file1" />
+	<br>
+	<input type="button" value="Check Extension" onclick =
+	"checkFileExtension();"/>
+	
+  </form>
+  </div>
+   <p id="result">The file extension is: <span class="output"></span></p>
+  <script>
+    function checkFileExtension()
+    {
+       fileName = document.querySelector('#file1').value;
+            extension = fileName.split('.').pop();
+            document.querySelector('.output')
+                   .textContent = extension;
+    };
+	
+  </script>
+</body>
+  
+</html>
