@@ -1,0 +1,8 @@
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\ZENSAR\CaseStudyC#\OneNightProject\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
